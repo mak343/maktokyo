@@ -1,0 +1,12 @@
+{
+	"name": "atheletshttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.dev/mak343/maktokyo/blob/main/data1/Athletes.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
