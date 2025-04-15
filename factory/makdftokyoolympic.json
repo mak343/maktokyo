@@ -1,9 +1,0 @@
-{
-	"name": "makdftokyoolympic",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "959be2e9-b33c-4753-a985-a1a333c28aba",
-		"tenantId": "7db98217-679b-453d-b682-a8e8a66a8a96"
-	}
-}
