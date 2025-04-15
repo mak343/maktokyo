@@ -4,8 +4,8 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com/mak343/maktokyo/blob/main/Medals.csv",
-			"enableServerCertificateValidation": false,
+			"url": "https://github.com/mak343/maktokyo/blob/main/Athletes.csv",
+			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
 	},
