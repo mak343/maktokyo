@@ -1,0 +1,84 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "makdftokyoolympic"
+		},
+		"AtheleHttpServer1_password": {
+			"value": ""
+		},
+		"AthletesHttpServer1_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage2_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage3_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage4_accountKey": {
+			"value": ""
+		},
+		"Teamshttp_password": {
+			"value": ""
+		},
+		"a3HttpServer1_password": {
+			"value": ""
+		},
+		"a6HttpServer1_password": {
+			"value": ""
+		},
+		"AtheleHttpServer1_properties_typeProperties_url": {
+			"value": "https://github.dev/mak343/maktokyo/blob/main/Athletes.csv"
+		},
+		"AtheleHttpServer1_properties_typeProperties_userName": {
+			"value": "mak343"
+		},
+		"AthletesHttpServer1_properties_typeProperties_url": {
+			"value": "https://github.dev/"
+		},
+		"AthletesHttpServer1_properties_typeProperties_userName": {
+			"value": "mak343"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://tokyoolypmic.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage2_properties_typeProperties_url": {
+			"value": "https://tokyoolypmic.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage3_properties_typeProperties_url": {
+			"value": "https://tokyoolypmic.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage4_properties_typeProperties_url": {
+			"value": "https://tokyoolypmic.dfs.core.windows.net/"
+		},
+		"Teamshttp_properties_typeProperties_url": {
+			"value": "https://github.dev/"
+		},
+		"Teamshttp_properties_typeProperties_userName": {
+			"value": "mak343"
+		},
+		"a3HttpServer1_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/mak343/maktokyo/blob/main/Athletes.csv"
+		},
+		"a3HttpServer1_properties_typeProperties_userName": {
+			"value": "mak343"
+		},
+		"a6HttpServer1_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/mak343/maktokyo/blob/main/athletes.csv"
+		},
+		"a6HttpServer1_properties_typeProperties_userName": {
+			"value": "mak343"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
